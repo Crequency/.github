@@ -1,4 +1,4 @@
-## Hi there 👋
+# 👋 Welcome to Catrol org!
 
 <!--
 
@@ -10,3 +10,14 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+<p align="center">
+<pre align="center">
+ ██████╗ █████╗ ████████╗██████╗  ██████╗ ██╗          ██████╗ ██████╗  ██████╗ 
+██╔════╝██╔══██╗╚══██╔══╝██╔══██╗██╔═══██╗██║         ██╔═══██╗██╔══██╗██╔════╝ 
+██║     ███████║   ██║   ██████╔╝██║   ██║██║         ██║   ██║██████╔╝██║  ███╗
+██║     ██╔══██║   ██║   ██╔══██╗██║   ██║██║         ██║   ██║██╔══██╗██║   ██║
+╚██████╗██║  ██║   ██║   ██║  ██║╚██████╔╝███████╗    ╚██████╔╝██║  ██║╚██████╔╝
+ ╚═════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚══════╝     ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ 
+</pre>
+</p>
